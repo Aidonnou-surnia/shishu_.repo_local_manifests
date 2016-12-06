@@ -4,12 +4,14 @@
 	<remote name="aidonnou" fetch="https://github.com/aidonnou-surnia" />
   <!-- Using a custom CM remote to avoid editing and editing of this file -->
   <remote name="cmgit" fetch="https://github.com/cyanogenmod" />
+  <!-- Using a custom AICP remote to avoid editing and editing of this file -->
+  <remote name="aicproj" fetch="https://github.com/aicp" />
   <!-- muppets remote just in case -->
   <remote name="tehmuppets" fetch="https://github.com/cyanogenmod" />
   
 	<!-- surnia stuff -->
-	<project path="device/motorola/surnia" name="android_device_motorola_surnia" revision="cm-14.1" remote="aidonnou" />
-	<project path="device/motorola/msm8916-common" name="android_device_motorola_msm8916-common" revision="cm-14.1" remote="cmgit" />
+	<project path="device/motorola/surnia" name="device_motorola_surnia" revision="n7.1" remote="aicproj" />
+	<project path="device/motorola/msm8916-common" name="device_motorola_msm8916-common" revision="n7.1" remote="aicproj" />
 	<project path="kernel/motorola/msm8916" name="android_kernel_motorola_msm8916" revision="cm-14.1" remote="cmgit" />
   
   <!-- dependencies (supposedly not needed) -->
