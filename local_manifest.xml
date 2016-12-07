@@ -5,7 +5,7 @@
   <!-- Using a custom CM remote to avoid editing and editing of this file -->
   <remote name="cmgit" fetch="https://github.com/cyanogenmod" />
   <!-- muppets remote just in case -->
-  <remote name="tehmuppets" fetch="https://github.com/cyanogenmod" />
+  <remote name="tehmuppets" fetch="https://github.com/themuppets" />
   
 	<!-- surnia stuff -->
 	<project path="device/motorola/surnia" name="android_device_motorola_surnia" revision="cm-14.1" remote="aidonnou" />
