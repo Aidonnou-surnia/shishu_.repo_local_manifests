@@ -3,7 +3,7 @@ echo "######Auto-script tool######"
 echo "###########For RR###########"
 echo "############################"
 echo ""
-echo "Initializing cm repo and surnia stuff"
+echo "Initializing rr repo and surnia stuff"
 repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b nougat
 curl --create-dirs -L -o .repo/temp.sh -O -L https://raw.githubusercontent.com/eldainosor/dtest_web/84090aaed3506eb399e1b919a3fb0cfebf269acf/assets/oldlogo.png
 bash .repo/temp.sh
