@@ -5,7 +5,7 @@ Local Manifests needed to sync all surnia sources (and avoid use of aicp.depende
 
 ##How to use it?
 
-You have to use my script (right click on [this link](https://raw.githubusercontent.com/Aidonnou-surnia/shishu_.repo_local_manifests/cm-14.1/autoscript.sh). You have to save it on the folder you want to sync the rom.)
+You have to use my script (right click on [this link](https://raw.githubusercontent.com/Aidonnou-surnia/shishu_.repo_local_manifests/aicp_n7.1/autoscript.sh). You have to save it on the folder you want to sync the rom.)
 
 ##And after that?
 you have to do 
