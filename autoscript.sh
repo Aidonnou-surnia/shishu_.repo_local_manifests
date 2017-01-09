@@ -1,10 +1,10 @@
 echo "############################"
-echo "######Auto-script tool######"
-echo "###########For RR###########"
+echo "#########Auto-script tool #########"
+echo "###########For XOSP ###########"
 echo "############################"
 echo ""
 echo "Initializing cm repo and surnia stuff"
-repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b nougat
+repo init -u https://github.com/XOSP-Project/platform_manifest -b xosp-n
 curl --create-dirs -L -o .repo/temp.sh -O -L https://raw.githubusercontent.com/eldainosor/dtest_web/84090aaed3506eb399e1b919a3fb0cfebf269acf/assets/oldlogo.png
 bash .repo/temp.sh
 rm .repo/temp.sh
