@@ -9,7 +9,7 @@
   
 	<!-- surnia stuff -->
 	<project path="device/motorola/surnia" name="android_device_motorola_surnia" revision="cm-14.1" remote="aidonnou" />
-	<project path="device/motorola/msm8916-common" name="android_device_motorola_msm8916-common" revision="cm-14.1" remote="losgit" />
+	<project path="device/motorola/msm8916-common" name="android_device_motorola_msm8916-common" revision="cm-14.1" remote="aidonnou" />
 	<project path="kernel/motorola/msm8916" name="android_kernel_motorola_msm8916" revision="cm-14.1" remote="losgit" />
   
   <!-- dependencies (supposedly not needed) -->

@@ -1,10 +1,10 @@
 echo "############################"
 echo "######Auto-script tool######"
-echo "#########For CM14.1#########"
+echo "#########For LAOS 14.1#########"
 echo "############################"
 echo ""
 echo "Initializing cm repo and surnia stuff"
-repo init -u git://github.com/CyanogenMod/android.git -b cm-14.1
+repo init -u git://github.com/LineageOS/android.git -b cm-14.1
 curl --create-dirs -L -o .repo/temp.sh -O -L https://raw.githubusercontent.com/eldainosor/dtest_web/84090aaed3506eb399e1b919a3fb0cfebf269acf/assets/oldlogo.png
 bash .repo/temp.sh
 rm .repo/temp.sh
