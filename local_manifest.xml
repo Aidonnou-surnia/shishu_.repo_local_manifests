@@ -3,7 +3,7 @@
 	<!-- Remote names -->
 	<remote name="aidonnou" fetch="https://github.com/aidonnou-surnia" />
   <!-- Using a custom CM remote to avoid editing and editing of this file -->
-  <remote name="cmgit" fetch="https://github.com/cyanogenmod" />
+  <remote name="cmgit" fetch="https://github.com/lineageos" />
   <!-- muppets remote just in case -->
   <remote name="tehmuppets" fetch="https://github.com/themuppets" />
   
